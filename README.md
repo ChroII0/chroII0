@@ -1,15 +1,11 @@
 <div>
   <a href="https://github.com/chroii0"><img width=465px align="center" src="/metrics/main.svg" alt="chroii0"></a>
-  <a href="https://github.com/chroii0"><img width=345px align="right" src='https://raw.githubusercontent.com/chroii0/github-stats-transparent/main/generated/languages.svg' alt="Planxnx" />
 </a>
 </div>
 
 #### Talking about Personal Stuffs 🎯
 - 🧑🏻‍💻 I'm Dang . I'm a blockchain and backend developer, and full-time self developer✌🏻
 - 💻 I’m currently working on improving my techskill.
-
-<a href="https://github.com/chroii0"><img align="right" src="https://raw.githubusercontent.com/chroii0/github-stats-transparent/main/generated/overview.svg" alt="Pon Le"></a>
-
 
 #### Knowledges 💻
 
@@ -28,11 +24,3 @@
 
 ![](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
 ![](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
-
-#### Recently I'm coding in...
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<a href="https://github.com/chroii0"><img width=380px align="right" src="/metrics/plugin.languages.used.svg" alt="Planxnx"></a>
-<a href="https://github.com/chroii0"><img width=410px align="left" src="/metrics/plugin.achivements.svg" alt="Planxnx"></a>
