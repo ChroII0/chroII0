@@ -1,5 +1,5 @@
 <div>
-  <a href="https://github.com/chroii0"><img width=465px align="center" src="/metrics/main.svg" alt="Chrollo"></a>
+  <a href="https://github.com/chroii0"><img width=465px align="center" src="/metrics/main.svg" alt="chroii0"></a>
   <a href="https://github.com/chroii0"><img width=345px align="right" src='https://raw.githubusercontent.com/chroii0/github-stats-transparent/main/generated/languages.svg' alt="Planxnx" />
 </a>
 </div>
