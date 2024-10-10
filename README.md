@@ -9,11 +9,15 @@
 
 #### Knowledges 💻
 
-![](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=go)
+![](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java)
+![](https://img.shields.io/badge/-Php-000000?style=flat-square&logo=php)
 ![](https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript)
-![](https://img.shields.io/badge/-Typescript-000000?style=flat-square&logo=typescript)
+![](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
+![](https://img.shields.io/badge/-Solidity-000000?style=flat-square&logo=solidity)
 
 ![](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js)
+![](https://img.shields.io/badge/-Typescript-000000?style=flat-square&logo=typescript)
+![](https://img.shields.io/badge/-Mysql-000000?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/-Postgresql-000000?style=flat-square&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis)
 ![](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
